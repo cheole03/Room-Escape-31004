@@ -1,3 +1,9 @@
+/*
+∞≥πﬂ¿⁄ : 31004±ËπŒ√∂, 31006±Ë¿±¡ﬂ 
+±‚πﬂ¿œ : 2021.09.09 
+πÆ¿« : mincheole03@naver.com 
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
